@@ -38,7 +38,7 @@
     <url>http://18.188.72.185:8081/repository/Release_1.1/</url>
   </repository>
   <snapshotRepository>
-    <id>snapshots</id>
+    <id>deployment</id>
     <!-- CHANGE HERE by your team nexus server -->
     <url>http://18.188.72.185:8081/repository/Snapshot_1.1/</url>
   </snapshotRepository>
